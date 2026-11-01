@@ -1,7 +1,7 @@
 const products = [{
     title: "Oatmeal choco chip",
     category: "Cookie",
-    description: "Een mix van meer dan genoeg donkere en melk chocolade, havermout en comfort.",
+    description: "Een mix van meer dan genoeg pure en melk chocolade, havermout en comfort.",
     price: "€ 2,25",
     image: "images/oatmeal-choco-chip.jpg"
   },
@@ -29,35 +29,35 @@ const products = [{
     {
     title: "Carrot cake",
     category: "Cake",
-    description: "Kruidige carrot cake, met een romige cream cheese topping.",
+    description: "Licht kruidige carrot cake met fris zure plantaardige botercréme",
     price: "€ 4,00",
     image: "images/carrot-cake.jpg"
   },
     {
     title: "Cheesecake",
     category: "Cake",
-    description: "Fris en zacht, om bij weg te dromen.",
+    description: "Frisse, zachte plantaardige cheesecake met haverkoek bodem.",
     price: "€ 4,00",
     image: "images/cheesecake.jpg"
   },
     {
-    title: "Choco pistache cake",
+    title: "Chocolade pistache cake",
     category: "Cake",
-    description: "Rijke mousse van pure chocolade met hartige pistache creme.",
+    description: "Rijke mousse van pure chocolade met hartige pistache créme op een haverkoek bodem.",
     price: "€ 4,00",
     image: "images/choco-pistache.jpg"
   },
     {
-    title: "Choco sinaasappel cake",
+    title: "Chocolade sinaasappel cake",
     category: "Cake",
-    description: "Rijke mousse van pure chocolade met ingelegde sinaasappel.",
+    description: "Rijke mousse van pure chocolade met stukjes ingelegde sinaasappelschil op een haverkoek bodem.",
     price: "€ 4,00",
     image: "images/choco-sinaasappel.jpg"
   },
     {
     title: "Appeltaartje",
     category: "Cake",
-    description: "Een hemels taartje gevuld met verse en gefruite appelstukjes, kaneel en citroen.",
+    description: "Duitse afgedekte friszure appeltaart met een suiker en kaneel topping.",
     price: "€ 4,00",
     image: "images/appeltaartje.jpg"
   },
