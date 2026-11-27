@@ -43,7 +43,7 @@ const products = [{
     {
     title: "Appeltaartje",
     category: "Cake",
-    description: "Duitse afgedekte friszure appeltaart met een suiker en kaneel topping.",
+    description: "Duitse afgedekte friszure appeltaart met een zoete glazuur en kaneel topping.",
     price: "€4",
     image: "images/appeltaartje.jpg"
   },
